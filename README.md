@@ -1,6 +1,4 @@
-# Filsuvilum Server Mod List
-Daftar seluruh mod yang ada pada server.
-
+# Filsuvilum Server Forge
 Server berjalan pada versi minecraft 1.10.2 (Offline Mode/Cracked Version).
 
 ```
