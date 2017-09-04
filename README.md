@@ -1,15 +1,18 @@
 # Filsuvilum Server Mod List
 Daftar seluruh mod yang ada pada server.
-Server berjalan dengan versi minecraft 1.10.2.
+
+Server berjalan pada versi minecraft 1.10.2 (Offline Mode/Cracked Version).
 
 ```
-> Name Server : Filsuvilum Forge Edition
-> IP Server : forge.filsuvilum.com
-> Slot : Max 40 Player
+-------------------------------------------
+Name Server : Filsuvilum Forge Edition
+IP Server : forge.filsuvilum.com
+Slot : Max 40 Player
+-------------------------------------------
 ```
 ## Cara Install Forge
 - [x] Download the recommended installer [disini](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.10.2.html) (Jika menggunakan windows silahkan pilih windows installer, untuk linux dan mac silahkan pilih versi .jar).
-- [x] Buka file .jar atau.exe yang baru saja anda download, pastikan `Install client` dipilih kemudan klik OK. Setelah selesai anda akan melihat pesan success.
+- [x] Buka file .jar atau .exe yang baru saja anda download, pastikan `Install client` dipilih kemudan klik OK. Setelah selesai anda akan melihat pesan success.
 - [x] Buka Laucher Minecraft kemudian pilih profil Forge lalu klik Play.
 
 ## Cara Memasang Mod Forge
